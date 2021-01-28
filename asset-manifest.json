@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-custom-slider/static/css/main.090c3176.chunk.css",
+    "main.js": "/react-custom-slider/static/js/main.2f90ff40.chunk.js",
+    "main.js.map": "/react-custom-slider/static/js/main.2f90ff40.chunk.js.map",
+    "runtime~main.js": "/react-custom-slider/static/js/runtime~main.7237dde1.js",
+    "runtime~main.js.map": "/react-custom-slider/static/js/runtime~main.7237dde1.js.map",
+    "static/css/2.7fad5d03.chunk.css": "/react-custom-slider/static/css/2.7fad5d03.chunk.css",
+    "static/js/2.f277c295.chunk.js": "/react-custom-slider/static/js/2.f277c295.chunk.js",
+    "static/js/2.f277c295.chunk.js.map": "/react-custom-slider/static/js/2.f277c295.chunk.js.map",
+    "index.html": "/react-custom-slider/index.html",
+    "precache-manifest.6059490cde66207da64fa695a968cb37.js": "/react-custom-slider/precache-manifest.6059490cde66207da64fa695a968cb37.js",
+    "service-worker.js": "/react-custom-slider/service-worker.js",
+    "static/css/2.7fad5d03.chunk.css.map": "/react-custom-slider/static/css/2.7fad5d03.chunk.css.map",
+    "static/css/main.090c3176.chunk.css.map": "/react-custom-slider/static/css/main.090c3176.chunk.css.map",
+    "static/media/arrow-left.svg": "/react-custom-slider/static/media/arrow-left.4cd3b2b4.svg",
+    "static/media/arrow-right.svg": "/react-custom-slider/static/media/arrow-right.116a70ad.svg",
+    "static/media/image.jpg": "/react-custom-slider/static/media/image.00fcc588.jpg",
+    "static/media/image2.jpg": "/react-custom-slider/static/media/image2.b500dfd6.jpg",
+    "static/media/image3.jpg": "/react-custom-slider/static/media/image3.6dfebea3.jpg"
+  }
+}
